@@ -8,3 +8,5 @@ Olá, me chamo Luiz Henrique e sou estudante de programação e estou cursando *
 
 ### Objetivos:
 Um dia almejo trabalhar nessa área da tecnologia com foco em cibersegurança, espero poder aqui desevolver meus primeiros objetivos!
+
+Meu [Linkedin🔗](https://www.linkedin.com/in/luiz-henrique011) 
