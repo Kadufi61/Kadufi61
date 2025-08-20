@@ -2,7 +2,7 @@
 Olá, me chamo Luiz Henrique e sou estudante de programação e estou cursando **Ciência da Computação** na Cruzeiro do Sul, e aqui será onde irei iniciar minha trajetória!
 
 ## Estou aprendendo:
-- Logíca de Programação (iniciante)
+- Logíca de Programação
 - Phyton (iniciante)
 - Github (iniciante)
 
